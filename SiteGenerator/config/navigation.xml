@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<directory id="1" lang="de">
+  <page name="home">Welcome</page>
+  <directory>
+    <title>Devices</title>
+    <page name="dtag">DTAG</page>
+    <page name="yukidrueck">Yukidrück</page>
+  </directory>
+  <directory>
+    <title>Software</title>
+    <page name="yukidreh">Yukidreh</page>
+    <page name="yukidingsbums">Yukidingsbums</page>
+  </directory>
+</directory>

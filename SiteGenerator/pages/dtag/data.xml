@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<document>
+  <title>DTAG</title>
+  <teaser>Dicktieranzeigegerät</teaser>
+  <tldr>Supertolles Gerät</tldr>
+  <page pageno="1">
+    <text>
+      Dies ist der Text über das supertolle Dicktieranzeigegerät (DTAG).
+      Das hat <inlinepagelink name="home"> einen Link zur Homepage</inlinepagelink>
+      Und ausserdem auch ein Bild: <inlineimage src="bild.png" />
+    </text>
+  </page>
+  <gallery>
+    <image url="eins.png" />
+  </gallery>
+  <attachments>
+    <attachment url="data.pdf" type="pdf" size="4711"/>
+  </attachments>
+</document>

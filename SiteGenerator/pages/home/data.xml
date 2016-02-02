@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<document>
+  <title>Home</title>
+  <teaser>Welcome to the strange devices page</teaser>
+  <tldr>Everything is awesome</tldr>
+  <page pageno="1">
+    <text>
+      Welcome to the home page
+      We have the <inlinepagelink name="dtag">DTAG</inlinepagelink>
+      Und ausserdem auch ein Bild: <inlineimage src="bild.png" />
+    </text>
+  </page>
+  <page pageno="2">
+    <text>
+      Welcome to the home page
+      We have the <inlinepagelink name="dtag">DTAG</inlinepagelink>
+      Und ausserdem auch ein Bild: <inlineimage src="bild.png" />
+    </text>
+  </page>
+  <page pageno="3">
+    <text>
+      Welcome to the home page
+      We have the <inlinepagelink name="dtag">DTAG</inlinepagelink>
+      Und ausserdem auch ein Bild: <inlineimage src="bild.png" />
+    </text>
+  </page>
+  <gallery>
+    <image url="eins.png" />
+  </gallery>
+  <attachments>
+    <attachment url="data.pdf" type="pdf" size="4711"/>
+  </attachments>
+</document>
